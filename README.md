@@ -1,4 +1,4 @@
-# MaxElementStack
+# MaxElement
 Find the max element in a Stack.
 
 You have an empty sequence, and you will be given N queries. Each query is one of these three types:
